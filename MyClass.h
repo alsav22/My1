@@ -5,7 +5,7 @@ class MyClass
 public:
 	MyClass(int a = 0) : x(a)
 	{}
-	// input
+	// /////////////////input
 	~MyClass();
 	void show();
 	
