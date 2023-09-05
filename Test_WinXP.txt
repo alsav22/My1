@@ -1,1 +1,0 @@
-Проверка связи между Winows 7 и GitHub через GitExt.
