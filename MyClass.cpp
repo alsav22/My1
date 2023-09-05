@@ -7,5 +7,5 @@ MyClass::~MyClass()
 
 void MyClass::show()
 {
-	std::cout << "Done!" << std::endl;
+	std::cout << "x = " << x << std::endl;
 }
